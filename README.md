@@ -1,5 +1,7 @@
 ﻿# Timer GTA VI na AWS com ECS Express Mode
 
+![Interface do timer](docs/screenshot.png)
+
 Aplicação web simples que mostra uma contagem regressiva para o lançamento do GTA VI (19/11/2026), publicada na AWS em contêiner usando **Amazon ECS Express Mode**.
 
 O objetivo do projeto foi praticar o fluxo completo de publicação de uma aplicação em contêiner na nuvem: código, imagem Docker, registro privado, execução gerenciada, HTTPS, health check e atualização sem indisponibilidade.
