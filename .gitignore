@@ -1,0 +1,16 @@
+# Arquivos gerados durante o deploy (contem dados da conta)
+container.json
+scaling.json
+trust-tasks.json
+trust-infra.json
+
+# Credenciais e variaveis de ambiente
+.env
+*.pem
+.aws/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
